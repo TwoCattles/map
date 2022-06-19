@@ -4,11 +4,11 @@ var UnminedMapProperties = {
     maxZoom: 2,
     defaultZoom: 0,
     imageFormat: "png",
-    minRegionX: -5,
-    minRegionZ: -6,
-    maxRegionX: 5,
-    maxRegionZ: 3,
+    minRegionX: 0,
+    minRegionZ: -2,
+    maxRegionX: 2,
+    maxRegionZ: -1,
     worldName: "地圖",
-    background: "#000000",
+    background: "#e3e3e3",
     markers: new Array()
 }

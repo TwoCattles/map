@@ -59,7 +59,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px '源泉圓體',sans serif",
+            font: "bold 15px 'GenSen',sans serif",
         },
         {
             x: 892,
@@ -68,7 +68,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px '源泉圓體',sans serif",
+            font: "bold 15px 'GenSen',sans serif",
         },
         {
             x: 1143,
@@ -77,7 +77,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1141,
@@ -86,7 +86,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1000+148,
@@ -95,7 +95,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1144,
@@ -104,7 +104,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1122,
@@ -113,7 +113,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1115,
@@ -122,7 +122,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 1105,
@@ -131,7 +131,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 11.11111111115px '源泉圓體',sans serif",
+            font: "bold 11.11111111115px 'GenSen',sans serif",
         },
         {
             x: 903,
@@ -140,7 +140,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px '源泉圓體',sans serif",
+            font: "bold 15px 'GenSen',sans serif",
         },
         {
             x: 893,
@@ -149,7 +149,7 @@ UnminedCustomMarkers = {
             textColor: "black", 
             offsetX: 0,
             offsetY: 0,
-            font: "bold 15px '源泉圓體',sans serif",
+            font: "bold 15px 'GenSen',sans serif",
         },
 
         // Example 3: Text only

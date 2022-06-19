@@ -47,7 +47,7 @@ class Unmined {
 
         var tileGrid = new ol.tilegrid.TileGrid({
             extent: mapExtent,
-            origin: [0, 0],
+            origin: [0,0],
             resolutions: resolutions,
             tileSize: worldTileSize / dpiScale
         });
@@ -148,7 +148,7 @@ class Unmined {
 
             ],
             view: new ol.View({
-                center: [0, 0],
+                center: [0,0],
                 extent: mapExtent,
                 projection: viewProjection,
                 resolutions: tileGrid.getResolutions(),
